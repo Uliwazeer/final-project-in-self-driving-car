@@ -58,4 +58,5 @@ For the last week of the course, now you will get hands-on with a simulation of 
 
 ## Course Certificate
 
+[CERTIFICATE.pdf](https://github.com/Uliwazeer/final-project-in-self-driving-car/files/11066886/CERTIFICATE.pdf)
 
